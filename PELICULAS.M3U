@@ -1,0 +1,36 @@
+#EXTM3U
+
+
+#EXTINF:-1 group-title="Peliculas",VENGANZA
+https://cdn-xobnnrbejgdrhj4u.edgeon-bandwidth.com/engine/hls2-c/01/16733/zofawuef3jaj_,n,.urlset/master.m3u8?t=WOeEqG5PpG78hVGfOEDhCvi7C1yQiEHFRMMfUyTD_aE&s=1774737727&e=14400&f=83668496&node=zGBu5D2v5eB3O/KB4a4xtvGvDbBUNXxDrrO4ga1VLgc=&i=189.239&sp=2500&asn=8151&q=n&rq=kXaiDkrT7JLy26oRAwPGPdzWG0tusVxGqGO7sE7F
+
+#EXTINF:-1 group-title="Peliculas",PROYECTO FIN DEL MUNDO
+https://cdn-kuc3ehpz4wnczfyz.edgeon-bandwidth.com/engine/hls2-c/01/16821/gmw2giyccys8_,n,.urlset/master.m3u8?t=sn_TsIQn11FfbuFUgfcOgoX9rk26hln8EmbGaLwAYJY&s=1774727125&e=14400&f=84107273&node=b4MgftQUpOLAOh+X4oqhhtz3ReeNu3r16rsrI8ruKi8=&i=189.239&sp=2500&asn=8151&q=n&rq=pMraYA2lD0A00qkstNIL93RRaKALxCeGqjddt9qm
+
+#EXTINF:-1 group-title="Peliculas",Cumbres Borrascosas
+https://cdn-5oon8upkzi1zeghh.edgeon-bandwidth.com/engine/hls2-c/01/16776/gejhwjfodclg_,n,.urlset/master.m3u8?t=xSnhX-vHf4kaBtxxdRA7IupVIoIltqM0bfDFfqofXTw&s=1774737836&e=14400&f=83882764&node=CNK4WWrubaTLiOtDbVIU9Ci4WeFvRzGKPoG7NQE/2NQ=&i=189.239&sp=2500&asn=8151&q=n&rq=kXaiDkrT7JLy26oRAwPGPdzWG0tusVxGqGO7sE7F
+
+#EXTINF:-1 group-title="Peliculas",THUNDERBOLTS
+https://t9lr3d.cfglobalcdn.com/silverlight/secip/65906/0/SrLX-sPCqT962Ow2YE2WzQ/MjgwNjoxMDhlOjJmOjUwZTg6MmMwZDo1YTY1OjFjZDQ6NzJlYw==/1774761029/hls-vod-s005/flv/api/files/videos/2025/07/01/1751350156ne7cq.mp4.m3u8
+
+#EXTINF:-1 group-title="Peliculas",THUNDERBOLTS
+https://edge1-waw-sprintcdn.r66nv9ed.com/hls2/08/09387/vez7md4dd84i_x/master.m3u8?t=X4pmj8qgEbxR4VdBE9ThNxjq1fnmRntk7mkd3wK9szA&s=1774740045&e=10800&f=46938327&srv=1070&asn=8151&sp=5500&p=0
+
+#EXTINF:-1 group-title="Peliculas",FRANKENSTEIN
+https://edge2-waw-sprintcdn.r66nv9ed.com/hls2/08/10237/ehczyjnbjsov_x/master.m3u8?t=Y7nn4ZLLM9QRY5B6tjVfUS8T3UQH3MGLdWqqmT7nzEw&s=1774740240&e=10800&f=51185117&srv=1055&asn=8151&sp=5500&p=0
+
+#EXTINF:-1 group-title="Peliculas",FRANKENSTEIN
+https://cdn-mqgdbmysvmw0rswd.edgeon-bandwidth.com/engine/hls2-c/01/15804/eybmszpwrmwm_,n,.urlset/master.m3u8?t=BsId7btHmo0AfRMWD02ZNolP1DMOHNr-6vY3MlaawfM&s=1774740341&e=14400&f=79020823&node=Kqc37j4wv9kcRNvuYZLSAFxbineaMtc4ztrpH7o7NV8=&i=189.239&sp=2500&asn=8151&q=n&rq=unxHZaTu3vhWRbaWU8Bj4u6AYMFNIqXJXtHmVYbb
+
+
+#EXTINF:-1 group-title="Peliculas",4 fantasticos LULU STREAM
+https://owfgpcbp6w2a.tnmr.org/hls2/01/02509/n7ssbov96qxn_h/master.m3u8?t=GNFXvTfkoWDmXxsPbJwnffozklSy4Uon3H9mUsRcsMQ&s=1774742561&e=28800&f=12547603&srv=cdn1010&i=0.3&sp=0&p1=owfgpcbp6w2a&p2=owfgpcbp6w2a
+
+#EXTINF:-1 group-title="Peliculas",4 fantasticos FILE MOON
+https://be7713.rcr82.waw05.r66nv9ed.com/hls2/08/09913/c0feq0l22icq_x/master.m3u8?t=frdX9yDT4zDJ8PFNoEnFmp-zrVpEh6jwKXhuiguWoKg&s=1774742108&e=10800&f=49583582&srv=1070&asn=8151&sp=5500&p=0
+
+
+#EXTINF:-1 group-title="Peliculas",4 fantasticos POW VIDEO
+https://stream-4338-55-56.pkcdn.org/dash/kyohoqbxbyikkfn2ma77smq6eut73xw6ymdtu3yn53jynhp344bad3yiyu/manifest.mpd
+
+
